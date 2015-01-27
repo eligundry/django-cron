@@ -1,4 +1,4 @@
-from base import DjangoCronJobLock
+from .base import DjangoCronJobLock
 from django.conf import settings
 
 import warnings
